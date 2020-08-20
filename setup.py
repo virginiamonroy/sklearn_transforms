@@ -16,7 +16,7 @@ setup(
             'my_custom_sklearn_transforms'
       ],
       install_requires=[
-         'lightgbm==2.0.2'
+         'lightgbm==2.3.1'
       ],
       zip_safe=False
 )
